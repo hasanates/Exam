@@ -466,6 +466,17 @@ XCOPY Quelle Ziel /A /D:Datum /E /C /Y
 - **Direkt (Direct Sales):** ohne Zwischenhaendler
 - **Indirekt (Indirect Sales):** mit Zwischenhaendler
 
+### Organisationsformen (Organizational Structures, DE + EN)
+
+| Organisationsform (EN) | Eigenschaften (Characteristics) | Vorteile (Advantages) | Nachteile (Disadvantages) |
+| --- | --- | --- | --- |
+| **Linienorganisation** (Line organization) | Ein Vorgesetzter; klare Hierarchie; feste Zustaendigkeiten | Einfache Struktur; klare Verantwortung; schnelle Entscheidungen | Wenig flexibel; Ueberlastung der Fuehrung; geringe Innovation |
+| **Stablinienorganisation** (Line-and-staff) | Linie + Stab (Beratung); Stab hat **keine Weisungsbefugnis** (no command authority); Unterstuetzung der Leitung | Nutzung von Expertenwissen; bessere Entscheidungen; Entlastung der Fuehrung | Hoeherer Kommunikationsaufwand; Konfliktpotenzial; hoehere Kosten |
+| **Spartenorganisation** (Divisional / product-based) | Gliederung nach Produkten/Maerkten; Sparten relativ eigenstaendig; eigene Leitung je Sparte | Marktorientiert; hohe Flexibilitaet; schnelle Reaktion | Doppelte Ressourcen; hoher Koordinationsaufwand; hohe Kosten |
+| **Matrixorganisation** (Matrix) | Mehrere Vorgesetzte; Kombination Funktion + Produkt; teamorientiert | Bessere Zusammenarbeit; hohe Flexibilitaet; Nutzung von Fachwissen | Konflikte moeglich; unklare Zustaendigkeiten; hoher Abstimmungsaufwand |
+
+**Merksatz Stab:** Stab **beraet**, Linie **entscheidet** (Staff advises; line decides).
+
 ---
 
 ## 16) ER-Modell (ER Model, Pruefung)
